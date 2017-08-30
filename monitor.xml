@@ -1,5 +1,5 @@
 <monitor>
-    <name>Service Availability Monitoring</name>
+    <name>Service Availability Monitoring Extension</name>
     <type>managed</type>
     <enabled>true</enabled>
     <description>Monitors service availability</description>
