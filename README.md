@@ -12,5 +12,5 @@ Server Visibilty License.
 
 # Installation 
 
-copy the extension into MACHINE_AGENT_HOME/monitor, make neccessary modifications to suite your environment and/or service endpoints and restart the machine agent. 
+copy the extension into MACHINE_AGENT_HOME/monitors, make neccessary modifications to suite your environment and/or service endpoints and restart the machine agent. 
 
