@@ -1,4 +1,4 @@
-# AppDynamics Service Availability Monitoring Extension  
+# AppDynamics Service Availability Monitoring Extension in bash  
 
 This extension monitors availability of multiple services by pinging the service API endpoint every minute. 
 
@@ -6,7 +6,9 @@ If the service is available, 1 is sent to AppDynamics, else 0 is sent to AppDyna
 
 file.txt contains a list of the service endpoints. 
 
-This URL/Service monitoring extension come in handy when you need to monitor service availability and you have not purchased the AppDynamics Server Visibilty License, and you're unable to install JRE or JDK on the server for whatever reason.  Otheriwse use the [offical URL Monitoring extension](https://www.appdynamics.com/community/exchange/extension/url-monitoring-extension/) -  if you have Java installed.  
+This URL/Service monitoring extension come in handy when you need to monitor service availability and you have not purchased the AppDynamics Service Availability License. 
+
+This extension is written in bash. Use  [ URL Monitoring extension](https://www.appdynamics.com/community/exchange/extension/url-monitoring-extension/) if you prefer Java extension. 
 
 
 # Installation 
